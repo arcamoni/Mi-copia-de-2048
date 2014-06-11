@@ -17,7 +17,7 @@ Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://gith
 ### Screenshot
 
 <p align="center">
-  <img url="screenshot.jpg" alt="Screenshot"/>
+  <img src="screenshot.jpg" alt="Screenshot"/>
 </p>
 
 That screenshot is fake, by the way. I never reached 2048 :smile:
